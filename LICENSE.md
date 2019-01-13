@@ -89,4 +89,4 @@ Creative Commons may be contacted at https://creativecommons.org/.
 あなたは、資料の中でパブリック・ドメインに属している部分に関して、あるいはあなたの利用が著作権法上の権利制限規定にもとづく場合には、ライセンスの規定に従う必要はありません。
 保証は提供されていません。ライセンスはあなたの利用に必要な全ての許諾を与えないかも知れません。例えば、パブリシティ権、肖像権、人格権 などの他の諸権利はあなたがどのように資料を利用するかを制限することがあります。
 
-引用:Japanese Scratch-Wiki https://ja.scratch-wiki.info/wiki/Japanese Scratch-Wiki:クリエイティブ・コモンズ 表示-継承 2.0 より
+引用:Japanese Scratch-Wiki https://ja.scratch-wiki.info/wiki/Japanese_Scratch-Wiki:クリエイティブ・コモンズ 表示-継承 2.0 より
